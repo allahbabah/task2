@@ -1,0 +1,10 @@
+#slideshow-container {
+    position: relative;
+    max-width: 500px;
+    margin: auto;
+}
+
+.slide {
+    display: none;
+    width: 100%;
+}
